@@ -60,8 +60,9 @@ void loop() {
 - Delay: Se establece un retardo de 1 segundo con delay(1000) entre las lecturas para evitar actualizaciones demasiado rápidas.
 ## Resultados 
 Al ejecutar el código en Wokwi o en una configuración física, se espera observar los siguientes resultados:
-
 En el monitor serie: Se imprimirán los valores de temperatura y humedad cada segundo.
-
 Ejemplo de salida en el monitor serie:
+![Texto alternativo](https://github.com/ZurielO/ESP321-DHT32-LCD/blob/main/imagen_2024-12-15_155637361.png).
+
+En la pantalla LCD: Los valores de temperatura y humedad se actualizarán en la pantalla LCD cada segundo. Ejemplo de lo que se verá en la LCD:
 ![Texto alternativo](https://github.com/ZurielO/ESP321-DHT32-LCD/blob/main/imagen_2024-12-15_155637361.png).
