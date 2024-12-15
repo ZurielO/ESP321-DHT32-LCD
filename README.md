@@ -64,3 +64,4 @@ Al ejecutar el código en Wokwi o en una configuración física, se espera obser
 En el monitor serie: Se imprimirán los valores de temperatura y humedad cada segundo.
 
 Ejemplo de salida en el monitor serie:
+![Texto alternativo](https://github.com/ZurielO/ESP321-DHT32-LCD/blob/main/imagen_2024-12-15_155637361.png).
