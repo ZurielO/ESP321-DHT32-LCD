@@ -72,7 +72,8 @@ En la pantalla LCD: Los valores de temperatura y humedad se actualizarán en la 
 
 ![Texto alternativo](https://github.com/ZurielO/ESP321-DHT32-LCD/blob/main/imagen_2024-12-15_160000538.png).
 
-![Texto alternativo](https://github.com/ZurielO/ESP321-DHT32-LCD/blob/main/imagen_2024-12-15_160000538.png).
+
+![Texto alternativo](https://github.com/ZurielO/ESP321-DHT32-LCD/blob/main/imagen_2024-12-15_160928564.png).
 
 ## Conclusión
 Esta práctica demuestra cómo integrar un sensor DHT22 y una pantalla LCD con la placa ESP32 para mostrar y visualizar datos de temperatura y humedad en tiempo real. A través de la simulación en Wokwi, se puede verificar la correcta lectura de los datos y su presentación tanto en el monitor serie como en la pantalla LCD. 
