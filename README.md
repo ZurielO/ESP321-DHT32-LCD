@@ -73,6 +73,8 @@ En la pantalla LCD: Los valores de temperatura y humedad se actualizarán en la 
 ![Texto alternativo](https://github.com/ZurielO/ESP321-DHT32-LCD/blob/main/imagen_2024-12-15_160000538.png).
 
 
+## Resultado final
+
 ![Texto alternativo](https://github.com/ZurielO/ESP321-DHT32-LCD/blob/main/imagen_2024-12-15_160928564.png).
 
 ## Conclusión
