@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/6b8bfe8e-146a-4a0c-9ebb-734777c9c09d)# ESP321-DHT32-LCD
+
+# ESP321-DHT32-LCD
 Uso de ESP32 con Sensor DHT22 y Pantalla LCD
 
 ## Objetivo
@@ -13,7 +14,7 @@ El objetivo de esta práctica es aprender a utilizar la ESP32 en conjunto con el
 Sensor DHT22: El pin de señal del sensor DHT22 está conectado al GPIO 15 de la ESP32.
 Pantalla LCD: La pantalla LCD está conectada a la ESP32 usando el protocolo I2C, con la dirección I2C configurada a 0x27 y utilizando dos pines (SDA y SCL) para la comunicación.
 
-
+![image](https://github.com/user-attachments/assets/6b8bfe8e-146a-4a0c-9ebb-734777c9c09d)
 
 ## Descripción del código
 El código está diseñado para leer los datos de temperatura y humedad desde el sensor DHT22 y mostrarlos en la pantalla LCD. Además, los datos también se envían al monitor serie.
